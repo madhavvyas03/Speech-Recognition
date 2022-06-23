@@ -8,20 +8,10 @@ This repository of basic examples on performing Speech Recognitionin Python usin
 
 ## Dependancies
 
-Now you would need to Install all the Dependecies to begin running
+You would need to Install all the Dependecies to begin running
 playing the Examples 
 
-Linux users  
-----------
-
-```bash
- 
-$ pip3 install pydub
-$ pip3 install PyAudio
-$ pip3 install SpeechRecognition
-```
-
-Window users
+For Window users
 -----------
 
 ```bash 
@@ -29,9 +19,6 @@ $ pip install pydub
 $ pip install PyAudio
 $ pip install SpeechRecognition
 ```
-
-Once everything is cleary installed , you're now ready to run the above examples 
-
 Recognition From Microphone 
 ----------------------------
 
@@ -82,4 +69,3 @@ $ python3 app_audio.py
     Recognizing the text
     Decoded Text : python programming is the best of all by Jordan
 ```
-Madhav 2020310
